@@ -1,0 +1,14 @@
+#!/bin/bash
+#comment
+
+echo "Hello World"
+
+myName="saran"
+
+declare -r NUM=5
+
+num1=4
+
+num2=$((NUM+num1))
+
+echo "my addition is $num2"
